@@ -1,7 +1,7 @@
 public interface methodsOfShape {
-    double areasShape();
+    double areaShape();
 
     double perimetrShape();
 
-    void pantingShape();
+    void paintingShape();
 }

@@ -15,7 +15,7 @@ public class Square implements methodsOfShape {
 
 
     @Override
-    public double areasShape() {
+    public double areaShape() {
         return heigthSquare + heigthSquare + heigthSquare + heigthSquare;
     }
 
@@ -25,7 +25,7 @@ public class Square implements methodsOfShape {
     }
 
     @Override
-    public void pantingShape() {
+    public void paintingShape() {
         System.out.println("You painting my square");
     }
 }
