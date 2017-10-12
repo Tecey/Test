@@ -1,4 +1,4 @@
-public interface methodsOfShape {
+public interface MethodsOfShape {
     double areaShape();
 
     double perimetrShape();
