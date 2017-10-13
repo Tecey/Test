@@ -1,4 +1,4 @@
-public class Square implements MethodsOfShape {
+public class Square implements Constructable {
     private int heigthSquare;
 
     public int getHeigthSquare() {
