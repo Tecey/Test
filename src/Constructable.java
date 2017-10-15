@@ -1,7 +1,7 @@
-public interface Constructable {
-    double areaShape();
+public abstract class Constructable {
+    public abstract double areaShape();
 
-    double perimetrShape();
+    public abstract double perimetrShape();
 
-    void paintingShape();
+    public abstract void paintingShape();
 }
