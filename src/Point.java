@@ -1,6 +1,10 @@
+package com.TestProjectTeam; //Комментарий Андрей: одинаковое название пакета проекта
+
 /**
  * Created by User on 12.10.2017.
  */
+
+
 public class Point {
     private int x;
     private int y;

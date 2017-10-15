@@ -1,4 +1,6 @@
-public class Square implements Constructable {
+package com.TestProjectTeam; //Комментарий Андрей: одинаковое название пакета проекта
+
+public class Square implements SimpleInterface { //Комментарий Андрей: подключаем интерфейс
     private int heigthSquare;
 
     public int getHeigthSquare() {

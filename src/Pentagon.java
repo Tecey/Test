@@ -1,12 +1,13 @@
+package com.TestProjectTeam; //Комментарий Андрей: одинаковое название пакета проекта
 
-public class Pentagon implements Constructable {
+public class Pentagon implements SimpleInterface { //Комментарий Андрей: подключаем интерфейс
     private int heightPentagon= xy;
 
     public int getHeightPentagon(){
         return heightPentagon;
     }
 
-    public void setHeightPentagon(){
+    public void setHeightPentagon(int heightPentagon){ //Комментарий Андрей: добавил тип значения int heightPentagon
         this.heightPentagon=heightPentagon;
     }
 
