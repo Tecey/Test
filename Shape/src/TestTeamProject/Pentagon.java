@@ -1,7 +1,7 @@
 package TestTeamProject;
 
 public class Pentagon implements Constructable {
-    private int heightPentagon = xy;
+    private int heightPentagon;
 
     public int getHeightPentagon(){
         return heightPentagon;
