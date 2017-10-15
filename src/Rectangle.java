@@ -1,6 +1,6 @@
 package com.andreyhome;
 
-public class Rectangle implements SimpleInterface{
+public class Rectangle implements Constructable{
 
     private int heightRectangle;
     private int widthRectangle;
