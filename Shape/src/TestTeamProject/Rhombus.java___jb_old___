@@ -1,9 +1,5 @@
 package TestTeamProject;
 
-    // НЕ ТРОГАТЬ!!!
-    // Собственность ~@NPG@~
-    // P.S. Свой код восстановлю, а вот чужой испорчу)))
-
 public class Rhombus implements Constructable {
     private int heightRhombus;
     private int angleRhombus;
