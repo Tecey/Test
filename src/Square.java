@@ -1,6 +1,6 @@
-package com.TestProjectTeam; //Комментарий Андрей: одинаковое название пакета проекта
+package TestTeamProject;
 
-public class Square implements SimpleInterface { //Комментарий Андрей: подключаем интерфейс
+public class Square implements Constructable {
     private int heigthSquare;
 
     public int getHeigthSquare() {

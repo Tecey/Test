@@ -1,4 +1,4 @@
-package com.TestProjectTeam; //Комментарий Андрей: одинаковое название пакета проекта
+package com.andreyhome;
 
 public class Rectangle implements SimpleInterface{
 
