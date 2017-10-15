@@ -18,12 +18,12 @@ public class Square implements Constructable {
 
     @Override
     public double areaShape() {
-        return heigthSquare + heigthSquare + heigthSquare + heigthSquare;
+        return heigthSquare * heigthSquare;
     }
 
     @Override
     public double perimetrShape() {
-        return heigthSquare * heigthSquare;
+ 	return heigthSquare + heigthSquare + heigthSquare + heigthSquare;
     }
 
     @Override
