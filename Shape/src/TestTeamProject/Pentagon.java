@@ -1,4 +1,4 @@
-package com.andreyhome;
+package TestTeamProject;
 
 public class Pentagon implements Constructable {
     private int heightPentagon = xy;

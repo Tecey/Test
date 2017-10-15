@@ -1,4 +1,4 @@
-package com.andreyhome;
+package TestTeamProject;
 
 public class Rectangle implements Constructable{
 
