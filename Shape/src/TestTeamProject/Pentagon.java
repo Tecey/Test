@@ -1,5 +1,5 @@
 package TestTeamProject;
-
+//
 public class Pentagon implements Constructable {
     private int heightPentagon;
 
@@ -7,7 +7,7 @@ public class Pentagon implements Constructable {
         return heightPentagon;
     }
 
-    public void setHeightPentagon(){
+    public void setHeightPentagon(int heightPentagon){
         this.heightPentagon=heightPentagon;
     }
 
@@ -19,6 +19,7 @@ public class Pentagon implements Constructable {
     public double perimetrShape(){
         return heightPentagon * 5;
     }
+    @Override
     public void paintingShape(){
         System.out.println("You painting my pentagon");
     }
